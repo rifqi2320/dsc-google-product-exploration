@@ -30,7 +30,7 @@ With the API, you can write program to automatize it easily. You don't want to m
 ### Cool, now where do i start?
 Well, well, well actually i don't know 😦. but you can explore it with me in [here](https://developers.google.com/drive/api/v3/about-sdk).
 
-## My Future Projcet
+## My Future Project
 Well i hope that i can explore it more in the future so i can make projects with it   
 (actually i don't know but here's some from my imagination list)
 * **File Manager using Windows Explorer** _(not yet)_
